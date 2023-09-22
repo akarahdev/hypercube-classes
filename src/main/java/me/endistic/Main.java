@@ -24,8 +24,4 @@ public class Main {
                 .addElement(new SingletonNode("name", new StyledTextArgument())
                         .setOptional(null));
     }
-    
-    protected ActionItem iconItem() {
-        return new ActionItem()
-    }
 }
